@@ -1,0 +1,1 @@
+<?php $title='No encontrado'; ?><div class="has-text-centered py-6"><h1 class="title is-1">404</h1><p class="subtitle">La página no existe.</p><a class="button is-primary" href="<?= route('home') ?>">Ir al inicio</a></div>
